@@ -1,5 +1,7 @@
 # datomic-tempid-example
 
+**Update:** The issue has been [resolved in Datomic 0.9.5561.62](https://groups.google.com/forum/#!topic/datomic/eLVunC7B4Uo/discussion).
+
 This repository illustrates issue with string tempid resolution at least in
 Datomic version 0.9.5561.59.
 
